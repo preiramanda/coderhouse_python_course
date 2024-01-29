@@ -1,6 +1,6 @@
-## This repo contains different exercises from the Python Bootcamp at Coderhouse, finished in January/24.
+## This repo contains different exercises from the Python Bootcamp at Coderhouse
 
-The course I took can be found here (https://www.coderhouse.com.br/online/python-br).
+The Bootcamp took place from November/23 to January/24. The course I took can be found here (https://www.coderhouse.com.br/online/python-br).
 
 ### Exercises:
 
