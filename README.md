@@ -1,8 +1,8 @@
-## This repo contains different exercises from the Python Bootcamp at Coderhouse
+### This repo contains different exercises from the Python Bootcamp at Coderhouse
 
 The Bootcamp took place from November/23 to January/24. The course I took can be found here (https://www.coderhouse.com.br/online/python-br).
 
-### Exercises:
+#### Exercises:
 
 1. notification_exercise -> Using a function, I created an alert to notify failures in a data-loading pipeline
 2. data_analytics_with_pandas -> Jupyter Notebook using Pandas to manipulate and clean data
